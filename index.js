@@ -11,6 +11,10 @@ app.use(express.json());
 app.use(cors());
 
 const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+  console.log(`Server is running on port ${PORT}`);
+});
+
 
 // Load Google Sheets credentials
 const GOOGLE_SHEET_ID = GOOGLE_ID;
