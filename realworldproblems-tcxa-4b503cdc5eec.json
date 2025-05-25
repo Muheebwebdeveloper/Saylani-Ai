@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "realworldproblems-tcxa",
+  "private_key_id": "4b503cdc5eec154f7d3f292a5ed65f0ba8ea93e3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCrEPGG3LBvqxOZ\nXQRZvyE9D/nngDp36b+fj6LAOIBrdLeUyO1KdMcP1JsFWmrC3Q2YQ7AVQP+x6qPC\nQyiXr76tzM0pwNbjyjhqQRBEfVo9zEbDh4oa+ttWFiV1b9gdbz6gMj8QT2ei5rZx\nYUS5jKqSiy+TjC5xIQqhgwivnT8WioD6YkWTxG1Z6ByUc9NS38/FG6yQaqnBEwrt\nA70vlJmdZQkpUjq7mq2/PN3EJevtloSD6fdshLkZGLlwWVUNn32UPdTsOR4KMB28\nDmB1KEhcgwzk0jpBfkyHDfqvMhDNT6Wrtoit0eP52id0jNObzyvRVM+bwkXevvpk\ndal0bUPVAgMBAAECggEACQ+asM6xDG5+rpmTXhWWSHUM2ErzIzWJutqRf6ZT1wfq\n+WyIdRspDW5GJSBxleS+Ou8gPTVLgJGxyYZjzgphtTRV4aefOkLp02b4L53cJnh9\nfw8yLNUAwoHly19N49vn8KBOCtUfONezmN8oFBP0AlMbsAW1fV8yAEq/2QghNquv\n1cguyyeBjgd4w5SqusWnbqtYc38tIFAxvYNoYeGUjsCs2Y8kb66UPZjqupDmYs4u\nKt7VcKEB+zD0Dsb2u/NCnvy7BLrpqMyDS3GxyvXFNhCgCvQdCcw3SELs1ZmMMSMK\nz3712pQCUfhzssKQBHihai6GPc/zUCD/81QRsmz9OQKBgQDk5ltFiSCl6K3HH/v1\nR05/RQmK1fLQXrF4BC48qSWPBkVNF3XVuSukVTwJVIKHDA7uQa7CD5xGUfoRFajN\nt84xK45m+Y5/WZ1k5k2qagKVQNAM+Zeyp7PgrNJsynq81X4b7WdKViY3Mj6yXuFy\n7kh3DGxem7OuHWXPva5TJpw+dwKBgQC/UbpCzondv4VAVbuxDUKWPbDAnYmmY5x4\nFlMsp1PewpfGU/BOewI9wufhHAljuQaB4FHmS/ZduH+Eoag06slj15lnQIxa3ScY\nBVH/47/d/erkUcZBjDokVPs3IN2LU3f2zMfkZ8Ht7J7TMdJOzdQmFTK/PtN2kDW2\njLhQwtOnEwKBgEyswUwkqBQLQhLequa5sRi+xniEPGcCIU6Dj/1v543mWtZ9ElK6\nSV0t1AOIFIUqS+IRjHmjAwUnNq38ZGQsutwLrBLga5RLL4b6AnAgPKdEY6zE+sS0\nmnObUI1ysfSJS0oNlzj2bKy2nvve/oQiP5HpTm/OljyvykfxUPC3kUT3AoGAZhnY\nnFSbMNNH6qiWTQu1kHaFwJWSY1DfrRrE8pyt3sDcvMQJB+kPriQ5GWKcBDM3LNKp\nAo1hgmy26PJY0TzHk1f5DyhcfxVtCp20QCqsN22OEKEve8W5NbCAjNAmS3eVGwn4\nV4Wj8jSIIk+BW/rukBBaD8QYmDqn369Doh4HVC8CgYBDZP3tPC0UFG+xAEkMCC2U\nvW+q2oqVryGcSOTISz60ZY1EkigQny88EV9RyG1NZLMH8IYSUYhSnF+1oNRXxA6Y\nnXKTesKqEwWzusVIvVk70Khhs+l1ZnVyjbNTQEpAkv8jumhIKj+kPHOK+0D6heWf\nQfcB6knqzM5aChKWA7ka4g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "saylaniai@realworldproblems-tcxa.iam.gserviceaccount.com",
+  "client_id": "104675430445457937849",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/saylaniai%40realworldproblems-tcxa.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
